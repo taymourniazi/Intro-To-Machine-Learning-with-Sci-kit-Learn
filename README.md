@@ -9,5 +9,8 @@ K-Neighbors Classification- Accuracy Evaluation, Regression and Classification M
 Parameters Tuned: Alpha, max_iter  
 Dataset: Boston House Prediction  
 ### E) Logistic & SVC (MultiClass) Classification Model
-Parameters Tuned: C  
-Dataset: Breast Cancer
+Parameters Tuned: C   
+Dataset: Breast Cancer  
+### F) Naive Bayes, Decision Tree & Random Forest(feature importance)
+Parameters Tuned: max tree depth, min leaf split,noise
+
