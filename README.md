@@ -5,3 +5,6 @@ A machine learning model from Iris data that can predict the species of iris for
 K-NN Model Classification, Sparse Matrix.
 ### C) K-Nearest Neighbour (Classification Regression)
 K-Neighbors Classification- Accuracy Evaluation, Regression and Classification Model
+### D) Linear (OLS, Lasso,Ridge) Regression Model
+Parameters Tuned: Alpha, max_iter  
+Dataset: Boston House Prediction  
