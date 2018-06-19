@@ -8,3 +8,6 @@ K-Neighbors Classification- Accuracy Evaluation, Regression and Classification M
 ### D) Linear (OLS, Lasso,Ridge) Regression Model
 Parameters Tuned: Alpha, max_iter  
 Dataset: Boston House Prediction  
+### E) Logistic & SVC (MultiClass) Classification Model
+Parameters Tuned: C  
+Dataset: Breast Cancer
