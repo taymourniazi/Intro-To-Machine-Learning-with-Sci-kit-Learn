@@ -16,4 +16,7 @@ Parameters Tuned: max tree depth, min leaf split,noise
 ### G) Gradient Boosted Regression Trees (Gradient Boosting Machines)  
 Parameters Tuned: Learning rate, max_depth  
 Dataset: Breast Cancer  
-### H) 
+### H) Kernelized Support Vector Machines
+Parameters Tuned: Gamma, C  
+Kernel: Linear, Polynomial, rbf-Gaussian  
+### 
