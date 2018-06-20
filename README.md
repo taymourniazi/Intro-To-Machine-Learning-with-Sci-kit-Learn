@@ -10,7 +10,10 @@ Parameters Tuned: Alpha, max_iter
 Dataset: Boston House Prediction  
 ### E) Logistic & SVC (MultiClass) Classification Model
 Parameters Tuned: C   
+Dataset: Breast Cancer    
+### F) Naive Bayes, Decision Tree & Random Forest(feature importance)  
+Parameters Tuned: max tree depth, min leaf split,noise  
+### G) Gradient Boosted Regression Trees (Gradient Boosting Machines)  
+Parameters Tuned: Learning rate, max_depth  
 Dataset: Breast Cancer  
-### F) Naive Bayes, Decision Tree & Random Forest(feature importance)
-Parameters Tuned: max tree depth, min leaf split,noise
-
+### H) 
