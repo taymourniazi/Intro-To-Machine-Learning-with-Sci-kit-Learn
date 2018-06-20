@@ -19,4 +19,6 @@ Dataset: Breast Cancer
 ### H) Kernelized Support Vector Machines
 Parameters Tuned: Gamma, C  
 Kernel: Linear, Polynomial, rbf-Gaussian  
-### 
+### I) Neural Network (Multi-Layer perceptrons) with Sci-kit Learn  
+Parameters Tuned: hidden layers, relu, tanh, solver='lbfgs'  
+Dataset: Breast Cancer  
